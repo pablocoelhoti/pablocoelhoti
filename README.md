@@ -1,7 +1,7 @@
 # Olá! 👋 Eu sou o Pablo Coelho
 
 ### 👨‍💻 Sobre mim
-- 🖥️ Profissional de TI com **7 anos de experiência** em infraestrutura, redes e suporte a sistemas críticos (ERP TOTVS Consinco, Alterdata etc).
+- 🖥️ Profissional de TI com experiência ampla em infraestrutura, redes e suporte a sistemas críticos (ERP TOTVS Consinco, Alterdata entre outros).
 - 🎓 Cursando **Sistemas de Informação** na UEMG
 - 🎯 Focado em aplicar meus conhecimentos para análise, resolução ágil de problemas e desenvolvimento.
 - 🗣️ Inglês Avançado.
