@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou o Pablo Coelho
+# Olá! 👋 Eu sou o Pablo
 
 ### 👨‍💻 Sobre mim
 - 🖥️ Profissional de TI com experiência ampla em infraestrutura, redes e suporte a sistemas críticos (ERP TOTVS Consinco, Alterdata entre outros).
