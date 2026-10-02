@@ -1,7 +1,7 @@
 # Olá! 👋 Eu sou o Pablo
 
 ### 👨‍💻 Sobre mim
-- 🖥️ Profissional de TI com experiência ampla em infraestrutura, redes e suporte a sistemas críticos (ERP TOTVS Consinco, Alterdata entre outros).
+- 🖥️ Profissional de TI com experiência ampla em infraestrutura, redes e suporte a sistemas críticos (ERP TOTVS Consinco, Alterdata etc).
 - 🎓 Cursando **Sistemas de Informação** na UEMG
 - 🎯 Focado em aplicar meus conhecimentos para análise, resolução ágil de problemas e desenvolvimento.
 - 🗣️ Inglês Avançado.
